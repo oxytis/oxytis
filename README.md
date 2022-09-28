@@ -1,4 +1,5 @@
-![oxytis-background](https://user-images.githubusercontent.com/11540780/192778973-72e19bf4-b0f8-45a3-a4e4-bab6a105e14c.png)
+![128610894-16582784-57cb-4640-a7eb-b4a3d5d474b2](https://user-images.githubusercontent.com/11540780/192782115-1ec59cc1-6c15-4835-8c37-aa002940d921.jpg)
+
 
 
 ![oxytis-shadow](https://user-images.githubusercontent.com/11540780/139596389-7b623d1f-a8e5-4401-bf61-db4d128439c6.png)
