@@ -1,4 +1,4 @@
-![120070375-31cb6380-c058-11eb-98f4-6a171c454858](https://user-images.githubusercontent.com/11540780/128610894-16582784-57cb-4640-a7eb-b4a3d5d474b2.jpg)
+![Screenshot_2022-09-25_08-07-33](https://user-images.githubusercontent.com/11540780/192778683-96561a23-af1c-4ae3-9d86-2e4b26eb30b1.png)
 
 ![oxytis-shadow](https://user-images.githubusercontent.com/11540780/139596389-7b623d1f-a8e5-4401-bf61-db4d128439c6.png)
 
