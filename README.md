@@ -1,7 +1,5 @@
-![Screenshot_2023-01-30_11-39-19-abc-github](https://user-images.githubusercontent.com/11540780/215754505-d4632647-6f4e-4e22-b0d3-fde22d608481.png)
+<img width="1740" height="315" alt="oxytis-logo-cropped" src="https://github.com/user-attachments/assets/8fa3f135-fa04-485b-8000-0f66b1050b03" />
 
-
-![oxytis-shadow](https://user-images.githubusercontent.com/11540780/139596389-7b623d1f-a8e5-4401-bf61-db4d128439c6.png)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Forensics-2bbc8a)
